@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowControl_Conditional_Exa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowControl_Conditional_Example2", "FlowControl_Conditional_Example2\FlowControl_Conditional_Example2.csproj", "{9A56943A-FA4E-4329-A92F-923F3644448F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControl_Example1", "FlowControl_Example1\FlowControl_Example1.csproj", "{C61EC9AA-49D4-4229-ADD2-2E66460D5865}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowControl_Example1", "FlowControl_Example1\FlowControl_Example1.csproj", "{C61EC9AA-49D4-4229-ADD2-2E66460D5865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowControl_DoWhile", "FlowControl_DoWhile\FlowControl_DoWhile.csproj", "{49857443-033F-4ABE-AB59-6F3005ECB5D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlowControl_DoWhile", "FlowControl_DoWhile\FlowControl_DoWhile.csproj", "{49857443-033F-4ABE-AB59-6F3005ECB5D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{4F730F2A-D9BF-4A66-9FC1-297F62053346}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingInAFile_Part1", "ReadingInAFile_Part1\ReadingInAFile_Part1.csproj", "{B5D43CE9-39D4-4B7A-9807-0D9075B7AB72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{49857443-033F-4ABE-AB59-6F3005ECB5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49857443-033F-4ABE-AB59-6F3005ECB5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49857443-033F-4ABE-AB59-6F3005ECB5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F730F2A-D9BF-4A66-9FC1-297F62053346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F730F2A-D9BF-4A66-9FC1-297F62053346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F730F2A-D9BF-4A66-9FC1-297F62053346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F730F2A-D9BF-4A66-9FC1-297F62053346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5D43CE9-39D4-4B7A-9807-0D9075B7AB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D43CE9-39D4-4B7A-9807-0D9075B7AB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D43CE9-39D4-4B7A-9807-0D9075B7AB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D43CE9-39D4-4B7A-9807-0D9075B7AB72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
