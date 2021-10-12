@@ -15,9 +15,9 @@ namespace All_Types_of_Collections
 
         static void Main(string[] args)
         {
-            //ParallelArrays();
+            ParallelArrays();
 
-            //ListExample();
+            ListExample();
 
             DictionaryExample();
 
