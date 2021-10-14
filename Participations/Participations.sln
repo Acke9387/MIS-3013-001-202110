@@ -13,9 +13,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAccountInfo", "BankAcco
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{C1628833-83E8-43F0-BF52-EAB153B5C285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All_Types_of_Collections", "All_Types_of_Collections\All_Types_of_Collections.csproj", "{42FE7AB2-7BAB-445D-A110-5CE5CA90BAF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "All_Types_of_Collections", "All_Types_of_Collections\All_Types_of_Collections.csproj", "{42FE7AB2-7BAB-445D-A110-5CE5CA90BAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_Min_Max_Avg", "Collections_Min_Max_Avg\Collections_Min_Max_Avg.csproj", "{7DCA5766-2051-4716-A517-FF8920451DBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_Min_Max_Avg", "Collections_Min_Max_Avg\Collections_Min_Max_Avg.csproj", "{7DCA5766-2051-4716-A517-FF8920451DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processing_A_CSV_File", "Processing_A_CSV_File\Processing_A_CSV_File.csproj", "{DF6B3BCC-3D17-402B-80DE-C101F746B54E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7DCA5766-2051-4716-A517-FF8920451DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DCA5766-2051-4716-A517-FF8920451DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DCA5766-2051-4716-A517-FF8920451DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6B3BCC-3D17-402B-80DE-C101F746B54E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6B3BCC-3D17-402B-80DE-C101F746B54E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6B3BCC-3D17-402B-80DE-C101F746B54E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6B3BCC-3D17-402B-80DE-C101F746B54E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
