@@ -17,11 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulation", "Strin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingInAFile_Part1", "ReadingInAFile_Part1\ReadingInAFile_Part1.csproj", "{B5D43CE9-39D4-4B7A-9807-0D9075B7AB72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_Arrays", "Collections_Arrays\Collections_Arrays.csproj", "{614AEEE8-BA12-4A87-AB36-F81FFB849843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_Arrays", "Collections_Arrays\Collections_Arrays.csproj", "{614AEEE8-BA12-4A87-AB36-F81FFB849843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_Dictionaries", "Collections_Dictionaries\Collections_Dictionaries.csproj", "{AB4E7649-18AB-46D2-AA19-C91BE35CFB23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_Dictionaries", "Collections_Dictionaries\Collections_Dictionaries.csproj", "{AB4E7649-18AB-46D2-AA19-C91BE35CFB23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_Lists", "Collections_Lists\Collections_Lists.csproj", "{F8CD1FF2-D164-4D3C-9D82-E45F8B398453}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_Lists", "Collections_Lists\Collections_Lists.csproj", "{F8CD1FF2-D164-4D3C-9D82-E45F8B398453}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
