@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_Dictionaries", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections_Lists", "Collections_Lists\Collections_Lists.csproj", "{F8CD1FF2-D164-4D3C-9D82-E45F8B398453}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions_Example1", "Functions_Example1\Functions_Example1.csproj", "{579480A8-A3B3-49FD-BE54-E5A26535BE8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{F8CD1FF2-D164-4D3C-9D82-E45F8B398453}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8CD1FF2-D164-4D3C-9D82-E45F8B398453}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8CD1FF2-D164-4D3C-9D82-E45F8B398453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579480A8-A3B3-49FD-BE54-E5A26535BE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579480A8-A3B3-49FD-BE54-E5A26535BE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579480A8-A3B3-49FD-BE54-E5A26535BE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579480A8-A3B3-49FD-BE54-E5A26535BE8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
