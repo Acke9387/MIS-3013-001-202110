@@ -15,9 +15,38 @@ namespace MethodsWithArrays
             grades.Add(CreateRandomSizedListWithRandomValues());
             grades.Add(CreateRandomSizedListWithRandomValues());
 
+            string[] names = { "Bob", "Suzie", "Cindy", "Squirrel Face", "Swetha" };
+            int[] ids = { 0, 1, 2, 3, 4 };
 
+            //foreach (var student in grades)
+            //{
+            //    foreach (var grade in student)
+            //    {
+            //        Console.Write($"{grade.ToString("N")}\t");
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            for (int i = 0; i < grades.Count; i++)
+            {
+                StudentInformation(names[i], ids[i], grades[i]);
+            }
 
         }
+
+        static void StudentInformation(string name, int id, List<double> grades)
+        {
+            double sum = 0;
+            foreach (var grade in grades)
+            {
+                sum += grade;
+            }
+
+            double avg = sum / grades.Count;
+
+            Console.WriteLine($"{name}({id}) has {grades.Count.ToString("n")} grades and has an average of {avg.ToString("n")}!");
+        }
+
 
         static List<double> CreateRandomSizedListWithRandomValues()
         {
