@@ -23,6 +23,16 @@ namespace Classes_Example1
             Grades = new List<double>();
         }
 
+        public Student(int id) : this()
+        {
+            Id = id;
+        }
+
+        public Student(string name) : this()
+        {
+            Name = name;
+        }
+
         public double CalculateAverage()
         {
             double sum = 0;

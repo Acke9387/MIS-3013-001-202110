@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodsWithArrays", "Method
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_Toy", "Classes_Toy\Classes_Toy.csproj", "{72A8F9D7-9586-4EF6-B6FF-D7AE78B74115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_ToyBox", "Classes_ToyBox\Classes_ToyBox.csproj", "{94920181-05B8-4892-AF83-E3083B1EA140}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes_ToyBox", "Classes_ToyBox\Classes_ToyBox.csproj", "{94920181-05B8-4892-AF83-E3083B1EA140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes_Cereal", "Classes_Cereal\Classes_Cereal.csproj", "{ABA5D601-5F32-42EF-8221-E7D78EB7D4B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{94920181-05B8-4892-AF83-E3083B1EA140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94920181-05B8-4892-AF83-E3083B1EA140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94920181-05B8-4892-AF83-E3083B1EA140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA5D601-5F32-42EF-8221-E7D78EB7D4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA5D601-5F32-42EF-8221-E7D78EB7D4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA5D601-5F32-42EF-8221-E7D78EB7D4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA5D601-5F32-42EF-8221-E7D78EB7D4B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
